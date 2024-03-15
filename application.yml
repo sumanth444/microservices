@@ -1,6 +1,3 @@
-spring:
-  application:
-    name: name-from-git
 # eureka client properties
 eureka:
   instance:
