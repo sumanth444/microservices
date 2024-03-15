@@ -1,7 +1,3 @@
-spring:
-  application:
-    name: checking
-     
 # eureka client properties
 eureka:
   instance:
